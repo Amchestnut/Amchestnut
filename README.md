@@ -2,9 +2,9 @@
 
 👀 I’m passionate about designing applications and mastering application architecture (too soon for a junior I know...)
 
-🌱 I’m currently deepening my knowledge in Artificial Intelligence and exploring the vast possibilities within Virtual Reality to innovate solutions that can make a real difference.
+🌱 I’m currently expanding my knowledge in Artificial Intelligence and exploring the vast possibilities within Virtual Reality to innovate solutions that can make a real difference.
 
-💞️ I’m looking to collaborate on projects that integrate AI and VR technologies, aiming to solve significant challenges in today's world. If you're venturing into intelligent apps or next-gen tech, let's connect!
+💞️ I’m looking to collaborate on projects that integrate AI and VR technologies, aiming to solve challenges in today's world. If you're into intelligent apps or next-gen tech, let's connect!
 
 📫 How to reach me:
 - **Instagram:** [milikic_](https://www.instagram.com/milikic_/)
