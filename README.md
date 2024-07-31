@@ -12,7 +12,7 @@
 
 😄 Pronouns: He/Him/His
 
-⚡ Fun fact: I have a penchant for chestnuts – both designing them into my projects and eating them! Who would have thought that "Amchestnut" would be so literal?
+⚡ Fun fact: (not a fun fact) I like chestnuts :P
 
 ---
 
