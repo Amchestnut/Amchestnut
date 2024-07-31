@@ -8,11 +8,11 @@
 
 📫 How to reach me:
 - **Instagram:** [milikic_](https://www.instagram.com/milikic_/)
-- **LinkedIn:** [Andrija Milikic](#https://www.linkedin.com/in/andrija-miliki%C4%87-45a64a226/)
+- **LinkedIn:** [Andrija Milikic](https://www.linkedin.com/in/andrija-miliki%C4%87-45a64a226/)
 
 😄 Pronouns: He/Him/His
 
-⚡ Fun fact: (not a fun fact) I like chestnuts :P
+⚡ Fun fact: (not a fun fact) I like chestnuts
 
 ---
 
