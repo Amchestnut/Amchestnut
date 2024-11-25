@@ -1,23 +1,21 @@
-👋 Hi, I’m @Amchestnut
+About Me
+👩‍💻 Aspiring Software Engineer specializing in Machine Learning and Backend Systems
+🚀 Passionate about building impactful solutions and solving challenging problems
+🎓 Currently pursuing a degree in Computer Science with a strong foundation in DSA, Python, Java, and ML frameworks
+🌱 Exploring AI, microservices, and backend technologies to expand my skillset
+📚 Eager to learn from industry leaders and contribute to meaningful projects
 
-👀 I’m passionate about designing applications and mastering application architecture (too soon for a junior I know...)
+🌟 Highlights
+•  Worked on projects involving OCR systems, data extraction, and classification models
+•  Gained hands-on experience in AWS and Firebase for backend development
+•  Avid problem-solver on LeetCode, sharpening skills for competitive programming
+•  Envisioning the future of AI combined with VR technologies to tackle real-world challenges
 
-🌱 I’m currently expanding my knowledge in Artificial Intelligence and exploring the vast possibilities within Virtual Reality to innovate solutions that can make a real difference.
-
-💞️ I’m looking to collaborate on projects that integrate AI and VR technologies, aiming to solve challenges in today's world. If you're into intelligent apps or next-gen tech, let's connect!
+🎯 Goal: To grow as a professional, contribute to innovative projects, and inspire others through my work.
 
 📫 How to reach me:
 - **Instagram:** [milikic_](https://www.instagram.com/milikic_/)
 - **LinkedIn:** [Andrija Milikic](https://www.linkedin.com/in/andrija-miliki%C4%87-45a64a226/)
 
-😄 Pronouns: He/Him/His
+Check out my repositories and connect with me to collaborate or share ideas! 🚀
 
-⚡ Fun fact: (not a fun fact) I like chestnuts
-
----
-
-### More About Me
-In my free time, I enjoy designing and developing applications for the mobile market. My ultimate goal is to fuse advanced technologies like AI with user-centric designs to create software that isn't just functional but truly transformative. 
-Softwares like Ebay and Instagram inspire me - the ability to fuse together AI search and target customers by their needs are blowing my mind.
-
-Feel free to drop by my repos or reach out if you're interested in collaborating on pioneering projects or just want to chat about the latest in tech and design!
